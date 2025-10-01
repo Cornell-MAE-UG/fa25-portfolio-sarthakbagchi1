@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Sarthak Bagchi - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -19,7 +19,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
+  *Bachelor of Science in Mechanical Engineering*  
   GPA: 3.8/4.0 | Graduation: Month, Year
 
 - **[High School Name]**  
