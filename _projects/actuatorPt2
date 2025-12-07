@@ -1,0 +1,9 @@
+---
+layout: project
+title: Actuator Truss System Part 2
+description: Statics Design
+technologies: 
+image: /assets/images/actuatorpart2.png
+---
+
+This part of the project analyzes the statics behind the mechanism design. The beam is assumed to be rigid. The maximum load for this mechanism is 2.69 kN. 
