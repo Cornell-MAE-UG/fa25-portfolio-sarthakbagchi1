@@ -2,13 +2,15 @@
 layout: default
 ---
 
-{% if page.url contains ".pdf" %}
-  <meta http-equiv="refresh" content="0; url={{ page.url | relative_url }}">
-{% endif %}
 
 <h1>{{ page.title }}</h1>
 
 <p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p>
+
+{% if page.pdf %}
+<p><a href="{{ page.pdf | relative_url }}" target="_blank" class="btn">Open PDF</a></p>
+{% endif %}
+
 
 {{ content }}
 
