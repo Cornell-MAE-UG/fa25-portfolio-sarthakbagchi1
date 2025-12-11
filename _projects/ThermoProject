@@ -1,8 +1,14 @@
 ---
-layout: project
+layout: none
 title: Thermodynamics Portfolio Project
 description: 
 technologies: 
 image: /assets/images/hvacdiffuser.png
-url: /assets/pdfs/ENGRD_2210_Portfolio_Assignment.pdf
+
+<!doctype html>
+<meta http-equiv="refresh" content="0; url='{{ '/assets/pdfs/ENGRD_2210_Portfolio_Assignment.pdf' | relative_url }}'">
+<p>If you are not redirected,
+<a href="{{ '/assets/pdfs/ENGRD_2210_Portfolio_Assignment.pdf' | relative_url}}"></a>
+</p>
+
 ---
